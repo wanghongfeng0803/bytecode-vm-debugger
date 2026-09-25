@@ -1,0 +1,14 @@
+{
+  "name": "bytecode-vm-debugger",
+  "version": "1.0.0",
+  "description": "字节码虚拟机与单步调试器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
